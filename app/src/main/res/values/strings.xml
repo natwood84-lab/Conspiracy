@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CipherFeed</string>
+    <string name="app_tagline">DECLASSIFIED WEB CHRONICLE</string>
+    <string name="nav_timeline">Timeline</string>
+    <string name="nav_vault">Vault</string>
+    <string name="search_placeholder">Search any theory, event, or era...</string>
+    <string name="scan_web">Scan Web</string>
+    <string name="conspiracy_of_the_week">CONSPIRACY OF THE WEEK</string>
+    <string name="verified_context_title">Verified Context &amp; Fact-Check</string>
+    <string name="sources_title">Grounded Web Sources</string>
+    <string name="gps_title">Linked Site Coordinates</string>
+    <string name="open_in_maps">Open in Maps</string>
+    <string name="empty_feed_title">No Dossiers in Archive Yet</string>
+    <string name="empty_feed_subtitle">Run a live web scan or tap a curated topic above to populate your chronological dossier feed.</string>
+    <string name="empty_vault_title">Your Vault is Empty</string>
+    <string name="empty_vault_subtitle">Bookmark any dossier from the chronological feed to keep it pinned in your personal archive.</string>
+</resources>

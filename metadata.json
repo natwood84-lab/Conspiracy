@@ -1,0 +1,6 @@
+{
+  "name": "CipherFeed",
+  "description": "Searches the web for conspiracy theories and summarizes them in a curated, chronological dossier feed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
